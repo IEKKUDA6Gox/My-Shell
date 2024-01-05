@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>HacknCorp Sh3ll &#9829;</title>
+<title>&#128321; HacknCorp Sh3ll &#128321;</title>
 <meta name='author' content='T3RS4K1T1'>
 <meta charset="UTF-8">
 <style type='text/css'>
